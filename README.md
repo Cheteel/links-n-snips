@@ -7,3 +7,4 @@
 
 #### Resources / Docs
 [MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/) // Comprehensive documentation on everything webdevelopment, including JavaScript
+[MDN / ArrowFunctions as methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#arrow_functions_used_as_methods)
